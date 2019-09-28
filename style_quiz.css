@@ -1,0 +1,279 @@
+body {
+	background-color: #23AABB;
+}
+.grid, .grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12, .grid_13{
+	width: 600px;
+	margin: 0 auto;
+	background-color: #FFF;
+	padding: 10px 50px 50px 50px;
+	border-radius: 50px;
+	border : 2px solid #CBCBCB;
+	box-shadow: 10px 15px 5px #CBCBCB;
+}
+.grid h1, .grid_1 h1, .grid_2 h1, .grid_3 h1, .grid_4 h1, .grid_5 h1, .grid_6 h1, .grid_7 h1, .grid_8 h1, .grid_9 h1, .grid_10 h1, .grid_11 h1, .grid_12 h1, .grid_13 h1 {
+	font-family: sans-serif;
+	background-color: #57636e;
+	font-size: 60px;
+	text-align: center;
+	color: #FFF;
+	padding: 2px 0px;
+	border-radius: 50px;
+	text-shadow: none;
+	position:relative;
+	margin-left:0;
+}
+.grid #question , .grid_1 #question_1, .grid_2 #question_2, .grid_3 #question_3, .grid_4 #question_4, .grid_5 #question_5, .grid_6 #question_6, .grid_7 #question_7, .grid_8 #question_8, .grid_9 #question_9, .grid_10 #question_10, .grid_11 #question_11, .grid_12 #question_12, .grid_13 #question_13 {
+	font-family: sans-serif;
+	font-size:30px;
+	color: #5A6772;
+}
+.buttons, .buttons_1, .buttons_2, .buttons_3, .buttons_4, .buttons_5, .buttons_6, .buttons_7, .buttons_8, .buttons_9, .buttons_10, .buttons_11, .buttons_12, .buttons_13{
+	margin-top: 30px;
+}
+#btn0, #btn1, #btn2, #btn3 {
+	background-color: #778897;
+	width: 250px;
+	font-size: 20px;
+	color: #FFF;
+	border: 1px solid #1D3C6A;
+	border-radius: 50px;
+	margin: 10px 40px 10px 0px;
+	padding: 10px 10px;
+}
+#progress, #progress_1 , #progress_2, #progress_3, #progress_4, #progress_5, #progress_6, #progress_7, #progress_8, #progress_9, #progress_10, #progress_11, #progress_12, #progress_13{
+	color: #ffffff;
+	font-size: 120%;
+}
+.progress, .progress_1 , .progress_2, .progress_3, .progress_4, .progress_5, .progress_6, .progress_7, .progress_8, .progress_9, .progress_10, .progress_11, .progress_12, .progress_13{
+	color: #ffffff;
+	font-size: 120%;
+	background-color:#c4c7ce;
+}
+#btn0:hover, #btn1:hover, #btn2:hover, #btn3:hover{
+	cursor: pointer;
+	background-color: #57636E;
+}
+#btn0:focus, #btn1:focus, #btn2:focus, #btn3:focus{
+	outline:0;
+}
+#btn_10, #btn_11, #btn_12, #btn_13 {
+	background-color: #778897;
+	width: 250px;
+	font-size: 20px;
+	color: #FFF;
+	border: 1px solid #1D3C6A;
+	border-radius: 50px;
+	margin: 10px 40px 10px 0px;
+	padding: 10px 10px;
+}
+#btn_10:hover, #btn_11:hover, #btn_12:hover, #btn_13:hover{
+	cursor: pointer;
+	background-color: #57636E;
+}
+#btn_10:focus, #btn_11:focus, #btn_12:focus, #btn_13:focus{
+	outline:0;
+}
+#btn_20, #btn_21, #btn_22, #btn_23 {
+	background-color: #778897;
+	width: 250px;
+	font-size: 20px;
+	color: #FFF;
+	border: 1px solid #1D3C6A;
+	border-radius: 50px;
+	margin: 10px 40px 10px 0px;
+	padding: 10px 10px;
+}
+#btn_20:hover, #btn_21:hover, #btn_22:hover, #btn_23:hover{
+	cursor: pointer;
+	background-color: #57636E;
+}
+#btn_20:focus, #btn_21:focus, #btn_22:focus, #btn_23:focus{
+	outline:0;
+}
+#btn_30, #btn_31, #btn_32, #btn_33 {
+	background-color: #778897;
+	width: 250px;
+	font-size: 20px;
+	color: #FFF;
+	border: 1px solid #1D3C6A;
+	border-radius: 50px;
+	margin: 10px 40px 10px 0px;
+	padding: 10px 10px;
+}
+#btn_30:hover, #btn_31:hover, #btn_32:hover, #btn_33:hover{
+	cursor: pointer;
+	background-color: #57636E;
+}
+#btn_30:focus, #btn_31:focus, #btn_32:focus, #btn_33:focus{
+	outline:0;
+}
+#btn_40, #btn_41, #btn_42, #btn_43 {
+	background-color: #778897;
+	width: 250px;
+	font-size: 20px;
+	color: #FFF;
+	border: 1px solid #1D3C6A;
+	border-radius: 50px;
+	margin: 10px 40px 10px 0px;
+	padding: 10px 10px;
+}
+#btn_40:hover, #btn_41:hover, #btn_42:hover, #btn_43:hover{
+	cursor: pointer;
+	background-color: #57636E;
+}
+#btn_40:focus, #btn_41:focus, #btn_42:focus, #btn_43:focus{
+	outline:0;
+}
+#btn_50, #btn_51, #btn_52, #btn_53 {
+	background-color: #778897;
+	width: 250px;
+	font-size: 20px;
+	color: #FFF;
+	border: 1px solid #1D3C6A;
+	border-radius: 50px;
+	margin: 10px 40px 10px 0px;
+	padding: 10px 10px;
+}
+#btn_50:hover, #btn_51:hover, #btn_52:hover, #btn_53:hover{
+	cursor: pointer;
+	background-color: #57636E;
+}
+#btn_50:focus, #btn_51:focus, #btn_52:focus, #btn_53:focus{
+	outline:0;
+}
+#btn_60, #btn_61, #btn_62, #btn_63 {
+	background-color: #778897;
+	width: 250px;
+	font-size: 20px;
+	color: #FFF;
+	border: 1px solid #1D3C6A;
+	border-radius: 50px;
+	margin: 10px 40px 10px 0px;
+	padding: 10px 10px;
+}
+#btn_60:hover, #btn_61:hover, #btn_62:hover, #btn_63:hover{
+	cursor: pointer;
+	background-color: #57636E;
+}
+#btn_60:focus, #btn_61:focus, #btn_62:focus, #btn_63:focus{
+	outline:0;
+}
+#btn_70, #btn_71, #btn_72, #btn_73 {
+	background-color: #778897;
+	width: 250px;
+	font-size: 20px;
+	color: #FFF;
+	border: 1px solid #1D3C6A;
+	border-radius: 50px;
+	margin: 10px 40px 10px 0px;
+	padding: 10px 10px;
+}
+#btn_70:hover, #btn_71:hover, #btn_72:hover, #btn_73:hover{
+	cursor: pointer;
+	background-color: #57636E;
+}
+#btn_70:focus, #btn_71:focus, #btn_72:focus, #btn_73:focus{
+	outline:0;
+}
+#btn_80, #btn_81, #btn_82, #btn_83 {
+	background-color: #778897;
+	width: 250px;
+	font-size: 20px;
+	color: #FFF;
+	border: 1px solid #1D3C6A;
+	border-radius: 50px;
+	margin: 10px 40px 10px 0px;
+	padding: 10px 10px;
+}
+#btn_80:hover, #btn_81:hover, #btn_82:hover, #btn_83:hover{
+	cursor: pointer;
+	background-color: #57636E;
+}
+#btn_80:focus, #btn_81:focus, #btn_82:focus, #btn_83:focus{
+	outline:0;
+}
+#btn_90, #btn_91, #btn_92, #btn_93 {
+	background-color: #778897;
+	width: 250px;
+	font-size: 20px;
+	color: #FFF;
+	border: 1px solid #1D3C6A;
+	border-radius: 50px;
+	margin: 10px 40px 10px 0px;
+	padding: 10px 10px;
+}
+#btn_90:hover, #btn_91:hover, #btn_92:hover, #btn_93:hover{
+	cursor: pointer;
+	background-color: #57636E;
+}
+#btn_90:focus, #btn_91:focus, #btn_92:focus, #btn_93:focus{
+	outline:0;
+}
+#btn_100, #btn_101, #btn_102, #btn_103 {
+	background-color: #778897;
+	width: 250px;
+	font-size: 20px;
+	color: #FFF;
+	border: 1px solid #1D3C6A;
+	border-radius: 50px;
+	margin: 10px 40px 10px 0px;
+	padding: 10px 10px;
+}
+#btn_100:hover, #btn_101:hover, #btn_102:hover, #btn_103:hover{
+	cursor: pointer;
+	background-color: #57636E;
+}
+#btn_100:focus, #btn_101:focus, #btn_102:focus, #btn_103:focus{
+	outline:0;
+}
+#btn_110, #btn_111, #btn_112, #btn_113 {
+	background-color: #778897;
+	width: 250px;
+	font-size: 20px;
+	color: #FFF;
+	border: 1px solid #1D3C6A;
+	border-radius: 50px;
+	margin: 10px 40px 10px 0px;
+	padding: 10px 10px;
+}
+#btn_110:hover, #btn_111:hover, #btn_112:hover, #btn_113:hover{
+	cursor: pointer;
+	background-color: #57636E;
+}
+#btn_110:focus, #btn_111:focus, #btn_112:focus, #btn_113:focus{
+	outline:0;
+}
+#btn_120, #btn_121, #btn_122, #btn_123 {
+	background-color: #778897;
+	width: 250px;
+	font-size: 20px;
+	color: #FFF;
+	border: 1px solid #1D3C6A;
+	border-radius: 50px;
+	margin: 10px 40px 10px 0px;
+	padding: 10px 10px;
+}
+#btn_120:hover, #btn_121:hover, #btn_122:hover, #btn_123:hover{
+	cursor: pointer;
+	background-color: #57636E;
+}
+#btn_120:focus, #btn_121:focus, #btn_122:focus, #btn_123:focus{
+	outline:0;
+}
+#btn_130, #btn_131, #btn_132, #btn_133 {
+	background-color: #778897;
+	width: 250px;
+	font-size: 20px;
+	color: #FFF;
+	border: 1px solid #1D3C6A;
+	border-radius: 50px;
+	margin: 10px 40px 10px 0px;
+	padding: 10px 10px;
+}
+#btn_130:hover, #btn_131:hover, #btn_132:hover, #btn_133:hover{
+	cursor: pointer;
+	background-color: #57636E;
+}
+#btn_130:focus, #btn_131:focus, #btn_132:focus, #btn_133:focus{
+	outline:0;
+}

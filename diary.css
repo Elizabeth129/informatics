@@ -1,0 +1,31 @@
+table {
+	border : 2px solid #b19dff;
+	margin-bottom : 5%; 
+}
+tr {
+	border : 2px solid #b19dff;
+}
+td {
+	border : 2px solid #b19dff;
+	text-align: right;
+}
+th {
+	border : 2px solid #b19dff;
+}
+h2{
+	font-family: cursive;
+	font-size: 250%;
+	color: #b877f5;
+}
+.a{
+	background-color: #b0f8ff;
+}
+.b{
+	background-color: #c1cfdc;
+}
+.c{
+	background-color: #a4e0f7; 
+}
+.d{
+	background-color: #a2ffa0;
+}
